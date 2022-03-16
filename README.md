@@ -1,3 +1,3 @@
 my first readme file in this program
 
-It is quite interesting
+It is quite interesting and lovely
